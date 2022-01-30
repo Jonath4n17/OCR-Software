@@ -1,6 +1,6 @@
 # OCR Software
  
-The Optical Character Recognition Software extracts text from input images and attempt to predict it. The applications vary from the digitization of documents to automating accounting processes. This program is written in Python and uses PyTorch and OpenCV to create a simple pipeline. Note that by going through each Jupyter notebook, a more in depth description for the code is provided. 
+The Optical Character Recognition Software extracts text from input images and attempts to predict it. The applications vary from the digitization of documents to automating accounting processes. This program is written in Python and uses PyTorch and OpenCV to create a simple pipeline. Note that by going through each Jupyter notebook, a more in depth description for the code is provided. 
 
 <h1> The Pipeline </h1>
 
